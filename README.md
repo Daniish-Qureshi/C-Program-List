@@ -174,16 +174,18 @@ Whether you're a student, a beginner learning C, or preparing for technical inte
 
 ## 🔧 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Daniish-Qureshi/C-Program-List.git
+git clone https://github.com/Daniish-Qureshi/C-Program-List.git
 
-2. Navigate to the folder:
+Navigate to the folder:
 cd C-Program-List
 
-3. Compile and run any program:
+Compile and run any program using GCC:
 gcc program01.c -o program01
 ./program01
+
+📌 Why this repo?
+...
+
 
 ❓ Why This Repo?
 📘 Perfect for students learning C programming
