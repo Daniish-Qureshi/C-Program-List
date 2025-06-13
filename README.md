@@ -182,8 +182,6 @@ cd C-Program-List
 Compile and run any program using GCC:
 gcc program01.c -o program01
 ./program01
-
-📌 Why this repo?
 ...
 
 
@@ -193,24 +191,31 @@ gcc program01.c -o program01
 📂 Clean, modular, and well-organized code
 ✅ Suitable for college mini-projects or viva prep
 
+---
+
 ⭐ Give a Star!
 If this repo helped you, please consider ⭐ starring it — your support motivates me to contribute more!
+---
 
 📁 File Name
 Save this as README.md and place it in the root of your repo (C-Program-List/)
+---
 
 ✨ Want More?
 Let me know if you'd like:
 Folder-wise code organization
 Topic badges (e.g., Language: C, License: MIT)
 Turn this into a GitHub Pages portfolio
+---
 
 🤝 Contributions
 Found a bug or want to contribute?
 Fork the repo, make changes, and submit a pull request!
+---
 
 📜 License
 This repository is licensed under the MIT License.
+---
 
 👨‍💻 Author
 Daniish Qureshi
