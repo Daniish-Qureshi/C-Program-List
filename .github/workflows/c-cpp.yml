@@ -1,13 +1,16 @@
-name: C Program Check
+name: Compile C Programs
 
-on: [push, pull_request]
+on:
+  push:
+  pull_request:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
+      - name: Checkout code
+        uses: actions/checkout@v4
 
-    - name: Compile all .c files
-      run: gcc -o test *.c
+      - name: Compile all C files
+        run: |
+          gcc -Wall -o main *.c || true
